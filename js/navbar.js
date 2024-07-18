@@ -1,4 +1,4 @@
-let key = '$2a$10$oFTM9uqaBHpQjTjZZLIUauYv6mAMtPqAgdACQF7TE2jYo91EMBBti'
+let key = '$2a$10$mek86M1SinSTUfUcJ//Twu8CybwGOfLsoF1DuHnI1dO0RXyoAWte2'
 let bin = '668d8601e41b4d34e40f81e7'
 function logout() {
     localStorage.removeItem('token');
