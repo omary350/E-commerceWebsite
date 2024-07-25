@@ -5,6 +5,8 @@ User can:
 
 •	main page contain products and sections to choose product categories to see products of specific category.
 
+• Search bar to search for products 
+
 •	Add products to cart through add to cart button associated with each product.
 
 •	Open product page to see its details.
