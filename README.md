@@ -14,3 +14,6 @@ User can:
 •	Cart page where user can control its products.
 
 •	Profile page where user can see email info.
+
+•	Using local storage for sign in option if user sign in once and check rememmber me noo need to sign in again
+
