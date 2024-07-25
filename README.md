@@ -1,21 +1,67 @@
-Check the live demo: https://mohasotre.netlify.app
+# E-Commerce Website for Electronics
 
-E-Commerce Website for Electronics for customers for shopping Mobiles, Laptops, etc.…
-User can:
+Welcome to the E-Commerce Website for Electronics, an online platform where customers can shop for a variety of electronic products, including mobiles, laptops, and more. This project aims to provide a seamless and user-friendly shopping experience for customers.
 
-•	Sign in if they already have an Email or Sign up if they don't 
+Check out the live demo: [mohasotre.netlify.app](https://mohasotre.netlify.app)
 
-•	main page contain products and sections to choose product categories to see products of specific category.
+## Features
 
-• Search bar to search for products 
+- **User Authentication**
 
-•	Add products to cart through add to cart button associated with each product.
+  - **Sign Up**: New users can create an account using their email.
+  - **Sign In**: Existing users can log in with their credentials.
+  - **Remember Me**: Users can opt to stay logged in using local storage.
 
-•	Open product page to see its details.
+- **Product Catalog**
 
-•	Cart page where user can control its products.
+  - **Main Page**: Displays a variety of products and categories.
+  - **Category Selection**: Choose specific product categories to filter products.
+  - **Product Search**: Use the search bar to find products by keywords.
 
-•	Profile page where user can see email info.
+- **Product Details**
 
-•	Using local storage for sign in option if user sign in once and check rememmber me noo need to sign in again
+  - **Product Page**: View detailed information about each product.
 
+- **Shopping Cart**
+
+  - **Add to Cart**: Easily add products to the cart with the "Add to Cart" button.
+  - **Cart Management**: Manage and modify cart contents from the cart page.
+
+- **User Profile**
+  - **Profile Page**: View user information, including email details.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: API integration for product data (e.g., DummyJSON)
+- **Storage**: Local Storage for maintaining session and cart information
+
+## Getting Started
+
+### Prerequisites
+
+Before you start, ensure you have the following software installed:
+
+- **Web Browser**: Latest version of Chrome, Firefox, or any other modern browser.
+
+## Project Created by:
+
+Mahmoud Ahmed El-Sayed
+
+- [Github](https://github.com/Jhinior)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-el-sayed-jr97/)
+
+Omar Yahia
+
+- [Github](https://github.com/omary350)
+- [LinkedIn](https://www.linkedin.com/in/omar-yehia-737b75237/)
+
+Hossam El-Batal
+
+- [Github](https://github.com/Hossam-El-Batal)
+- [LinkedIn](https://www.linkedin.com/in/hossam-elbatal-4155342a9/)
+
+Ahmed Abu Gabal
+
+- [Github](https://github.com/ahmedabougabal)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-abou-gabal-b9a262193/)
