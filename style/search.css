@@ -70,3 +70,6 @@
     font-family: Ubuntu;
     cursor: pointer;
 }
+.products-container-box-addToCart:active {
+    background-color: black;
+}

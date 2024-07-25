@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
             })
             .catch(error => console.error('Error loading content:', error));
     }
-    loadContent('header', 'navBar.HTML');
-    loadContent('footer', 'footer.html');
+    loadContent('header', '../html/navBar.HTML');
+    loadContent('footer', '../html/Footer.html');
 });
 // catch params
 const paramValue = new URLSearchParams(window.location.search);

@@ -17,9 +17,10 @@
     color: rgb(47, 89, 125);
 }
 .firstSection-midText-header{
-    margin-top: 250px;
+    margin-top: 370px;
     font-family: Ubuntu;
-    font-size: 70px;
+    font-size: 80px;
+    font-weight: bold;
     
 }
     
@@ -160,6 +161,10 @@ option {
     font-family: Ubuntu;
     cursor: pointer;
 
+}
+
+.products-container-box-addToCart:active{
+    background-color: black;
 }
 
 /*thired Section*/
